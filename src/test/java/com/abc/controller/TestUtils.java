@@ -3,10 +3,10 @@ package com.abc.controller;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.abc.dtos.AddressDto;
-import com.abc.dtos.ContactDto;
-import com.abc.dtos.NameDto;
-import com.abc.dtos.PhoneDto;
+import com.mgmt.dtos.AddressDto;
+import com.mgmt.dtos.ContactDto;
+import com.mgmt.dtos.NameDto;
+import com.mgmt.dtos.PhoneDto;
 
 public class TestUtils {
 
